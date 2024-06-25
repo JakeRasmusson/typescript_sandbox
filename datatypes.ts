@@ -1,0 +1,2 @@
+let fname = 'John';
+
